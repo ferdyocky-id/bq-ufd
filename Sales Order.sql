@@ -1,3 +1,10 @@
+/* 
+sales orders report
+anti left join with sales orders return
+filtered brand: department, strive, goodr
+filtered status_ame: return, cancel
+*/
+
 with sales_data as
 (
 select
